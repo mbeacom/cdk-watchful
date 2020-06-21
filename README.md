@@ -1,6 +1,6 @@
-# cdk-watchful
+# cdk-watchful-edge
 
-[![CircleCI](https://circleci.com/gh/eladb/cdk-watchful.svg?style=svg)](https://circleci.com/gh/eladb/cdk-watchful)
+[![Publish packages](https://github.com/mbeacom/cdk-watchful/workflows/Publish%20packages/badge.svg)](https://github.com/mbeacom/cdk-watchful/actions?query=workflow%3A%22Publish+packages%22)
 [![python](https://img.shields.io/badge/jsii-python-blueviolet.svg)](https://pypi.org/project/cdk-watchful/)
 [![typescript](https://img.shields.io/badge/jsii-typescript-blueviolet.svg)](https://www.npmjs.com/package/cdk-watchful)
 
@@ -40,13 +40,13 @@ And...
 TypeScript/JavaScript:
 
 ```console
-$ npm install cdk-watchful
+$ npm install cdk-watchful-edge
 ```
 
 Python:
 
 ```console
-$ pip install cdk-watchful
+$ pip install cdk-watchful-edge
 ```
 
 ## Initialize
@@ -121,4 +121,3 @@ See a more complete [example](https://github.com/eladb/cdk-watchful/blob/master/
 ## License
 
 [Apache 2.0](https://github.com/eladb/cdk-watchful/blob/master/LICENSE)
-

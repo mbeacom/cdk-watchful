@@ -1,6 +1,6 @@
 {
   "name": "cdk-watchful-edge",
-  "version": "0.6.0",
+  "version": "0.6.1",
   "description": "Watching your CDK apps since 2019 - Edge",
   "awscdkio": {
     "twitter": "emeshbi"
@@ -23,14 +23,14 @@
     "outdir": "dist",
     "targets": {
       "java": {
-        "package": "com.github.eladb.watchful",
+        "package": "com.github.mbeacom.watchful",
         "maven": {
-          "groupId": "com.github.eladb",
-          "artifactId": "cdk-watchful"
+          "groupId": "com.github.mbeacom",
+          "artifactId": "cdk-watchful-edge"
         }
       },
       "python": {
-        "distName": "cdk-watchful",
+        "distName": "cdk-watchful-edge",
         "module": "cdk_watchful"
       }
     }
